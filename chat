@@ -71,7 +71,7 @@
 
         <div class="question-box">
             <strong>Q:</strong> What is the difference between HTML and CSS?<br>
-            <strong>A:</strong> HTML structures the page, while CSS styles it.
+            <strong>A:</strong> HTML structures the page, while CSS styles it:
         </div>
 
     </div>
